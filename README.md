@@ -1,7 +1,5 @@
 # E-commerce_USE_CASE
----
-![alt text](<Data Processing Diagramme.png>)
----
+
 ## 📋 Project Overview
 This project provides an **automated data processing pipeline** designed to **clean, validate, and enrich raw e-commerce product catalogs**.  
 
