@@ -63,6 +63,7 @@ Dimensions and colors are often buried in unstructured text. This tool extracts 
 ---
 ## 📁 Project Structure
 
+```
 Ecommerce_Project/
 ├── Ecommerce_Data/
 │   ├── Ecommerce_sales.xlsx
@@ -72,6 +73,7 @@ Ecommerce_Project/
 ├── Notebook_version.ipynb
 ├── Presentation_des_resultats.mp4
 └── README.md
+```
 
 ---
 ## 🛠️ Installation
@@ -79,3 +81,4 @@ Ecommerce_Project/
 
 ```bash
 git clone https://github.com/bousettayounes/E_Commerce_Sales.git
+```
