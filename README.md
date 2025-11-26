@@ -62,8 +62,21 @@ Dimensions and colors are often buried in unstructured text. This tool extracts 
 
 ---
 
-## 🛠️ Installation
+## 📁 Project Structure
 
+Ecommerce_Project/
+├── Ecommerce_Data/
+│   ├── Ecommerce_sales.xlsx
+│   └── Exported_Ecommerce_sales.csv
+│
+├── main.py
+├── Notebook_version.ipynb
+├── Presentation_des_resultats.mp4
+└── README.md
+
+---
+
+## 🛠️ Installation
 1. Clone the repository:
 
 ```bash
