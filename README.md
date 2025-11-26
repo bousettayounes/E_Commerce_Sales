@@ -1,4 +1,4 @@
-# E-commerce Product Data Processor & NLP Categorizer
+# E-commerce_USE_CASE
 
 ## 📋 Project Overview
 This project provides an **automated data processing pipeline** designed to **clean, validate, and enrich raw e-commerce product catalogs**.  
