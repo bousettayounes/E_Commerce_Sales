@@ -30,6 +30,19 @@ Dimensions and colors are often buried in unstructured text. This tool extracts 
 
 ---
 
+## 🛠️ Pipeline Steps
+
+1. **Load Data** – Import "Ecommerce_sales.xlsb" file.  
+2. **Clean Text** – Remove accents, extra spaces, and unwanted characters.  
+3. **Generate Category Profiles** – Aggregate descriptions by existing categories.  
+4. **Vectorize Text** – Transform descriptions into TF-IDF vectors.  
+5. **Compute Similarity** – Compare products to category profiles using Cosine Similarity.  
+6. **Correct Categories** – Reassign products if similarity suggests a different category.  
+7. **Extract Dimensions** – Parse product descriptions for measurements.  
+8. **Extract Colors** – Normalize color mentions into standard categories.  
+9. **Export CSV** – Save cleaned and enriched dataset for analysis or reporting.
+
+---
 ## ✨ Key Features
 
 ### Robust Data Loading
