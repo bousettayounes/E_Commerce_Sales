@@ -3,13 +3,11 @@
 ## 📋 Project Overview
 This project provides an **automated data processing pipeline** designed to **clean, validate, and enrich raw e-commerce product catalogs**.  
 
-Large product datasets often contain **human labeling errors** and **unstructured text**, making analysis challenging. This tool addresses these issues using **Natural Language Processing (NLP)** for category auditing and correction, and **Regular Expressions (Regex)** for structured attribute extraction (Dimensions and Colors). It transforms messy Excel dumps (`.xlsb` / `.xlsx`) into **clean, analyzed CSV datasets** ready for reporting or downstream applications.
+Large product datasets often contain **human labeling errors** and **unstructured text**, making analysis challenging. This solution addresses these issues using **Natural Language Processing (NLP)** for category auditing and correction, and **Regular Expressions (Regex)** for structured attribute extraction (Dimensions and Colors). It transforms messy Excel dumps (`.xlsb` / `.xlsx`) into **clean, analyzed CSV datasets** ready for reporting and to extract insights.
 
 ---
 
 ## 🔍 Core Functionality
-
-The codebase revolves around **two main pillars**:
 
 ### 1. NLP-Driven Category Correction
 Manual product categorization is error-prone. This tool implements a **machine learning approach** to audit the *Nature* (Category) column:
