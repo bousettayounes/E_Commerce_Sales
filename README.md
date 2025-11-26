@@ -61,7 +61,6 @@ Dimensions and colors are often buried in unstructured text. This tool extracts 
   - Context-aware extraction (uses "Couleur:" cues if direct keywords are absent).
 
 ---
-
 ## 📁 Project Structure
 
 Ecommerce_Project/
@@ -75,7 +74,6 @@ Ecommerce_Project/
 └── README.md
 
 ---
-
 ## 🛠️ Installation
 1. Clone the repository:
 
